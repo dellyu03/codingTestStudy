@@ -11,6 +11,6 @@
 
 
 ## Index
->### [1. concepts](./concepts/README.md)  
+>### [1. concepts](./concepts)  
 >### [2. TIL ](./TIL/README.md)  
 >### [3. probs](./probs/README.md)
