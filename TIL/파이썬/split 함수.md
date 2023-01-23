@@ -24,6 +24,7 @@ print(b)                #world가 출력됨
 ## split 함수 활용 
 - 파이썬에서는 한번에 여러개의 변수에 각각 다른 값을 넣어줄 수 있음
 - split 함수를 이용해서 쪼갠 문자열을 한번에 각각 다른 변수에 넣는 것이 가능
+- 단, split함수를 이용해 쪼갠 문자열의 개수와 변수의 개수가 동일해야 함
 ```python
 a, b = ("Hello World").split() #a에는 Hello가 b에는 World가 들어가게 됨
 print(a)
